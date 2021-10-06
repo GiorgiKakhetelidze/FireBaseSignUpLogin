@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HomeWork9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_txt">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next">NEXT</string>
+    <string name="username">UserName</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="by_signing_up_you_agree_to_photos_terms_of_service_and_nprivacy_policy">By signing up you agree to Photos Terms of Service and \nPrivacy Policy</string>
+    <string name="log_in_title">Log in</string>
+    <string name="fill_fields">Plsease Fill all Fields</string>
+    <string name="email_not_valid">Email is not valid</string>
+    <string name="success">Success</string>
+    <string name="invalid_password">Password is not valid</string>
+    <string name="empty_input">Input is empty</string>
+    <string name="profile">Profile</string>
+    <string name="enter_username">Please Enter Username</string>
+</resources>
